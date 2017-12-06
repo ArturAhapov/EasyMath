@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBlueLight">#03a9f4</color>
+    <color name="colorBlueGrey">#aaaeaf</color>
+    <color name="colorGreen">#6dcb17</color>
+    <color name="colorMagenta">#cb10d0</color>
+    <color name="colorRed">#de0f1c</color>
+    <color name="colorYellow">#e8a303</color>
+    <color name="lime">#cddc39</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDashBoard">#336c3e</color>
+    <color name="colorDashBoardEmpty">#09386941</color>
+    <color name="colorFonEmpty">#96386941</color>
+    <color name="questionText">#FFFFFF</color>
+    <color name="text">#FFFFFF</color>
+    <color name="quiz_buttons_text_color">#FFFFFF</color>
+</resources>
